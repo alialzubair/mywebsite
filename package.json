@@ -1,0 +1,15 @@
+{
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d "
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://alialzubair.github.io/mywebsite",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
